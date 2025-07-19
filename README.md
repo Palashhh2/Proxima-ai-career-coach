@@ -30,7 +30,6 @@
 - **[Next.js API Routes](https://nextjs.org/docs/api-routes/introduction)** - Server-side API endpoints
 - **[Prisma ORM](https://www.prisma.io/)** - Type-safe database toolkit
 - **[Neon DB](https://neon.tech/)** - Serverless PostgreSQL database
-- **[Inngest](https://www.inngest.com/)** - Background job processing and workflow orchestration
 
 ### AI & Authentication
 - **[Google Gemini AI](https://ai.google.dev/)** - Advanced AI model for content generation
